@@ -79,16 +79,6 @@ li{
   display: flex;
   flex-flow: column wrap;
   align-items: center;
+  gap: 16px;
 }
 
-img{
-  margin: 12px;
-}
-
-input{
-  margin: 8px;
-}
-
-.buttons{
-  margin: 8px;
-}
